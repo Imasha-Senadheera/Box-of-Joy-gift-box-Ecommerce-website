@@ -1,5 +1,12 @@
 # Box-of-Joy-gift-box-Ecommerce-website 🎁
-This is created only for academic purposes. This online gift box store is built using the WordPress platform. The purpose of the project is to provide a simple and user-friendly e-commerce website that allows customers to purchase gift boxes for different occasions. 
+This online gift box store is built using the WordPress platform, designed using the Elementor plugin, and hosted using pantheon.io.
+
+The purpose of the project is to provide a simple and user-friendly e-commerce website that allows customers to purchase gift boxes for different occasions.
+
+This is created for academic purposes only.
+
+➟ Click the link to the website: https://lnkd.in/dphmMeSp
+➟ Click the link to the website video demostration: https://www.linkedin.com/posts/activity-7069197023823953921-qO5R?utm_source=share&utm_medium=member_desktop
 
 ## ScreenShot of the Website
 
