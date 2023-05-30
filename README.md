@@ -5,7 +5,7 @@ The purpose of the project is to provide a simple and user-friendly e-commerce w
 
 This is created for academic purposes only.
 
-➟ Click the link to the website: https://lnkd.in/dphmMeSp
+➟ Click the link to the website: https://lnkd.in/dphmMeSp <br>
 ➟ Click the link to the website video demostration: https://www.linkedin.com/posts/activity-7069197023823953921-qO5R?utm_source=share&utm_medium=member_desktop
 
 ## ScreenShot of the Website
